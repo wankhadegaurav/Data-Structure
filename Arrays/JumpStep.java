@@ -1,8 +1,10 @@
-public class JumpStep{
+
+
+public class JumpStep {
     public static void main(String args[])
     {
        
-        int nums[]={3,0,8,2,0,0,1};
+        int nums[]={0,0,1,1};
         System.out.println(farest(nums));
        
     }
